@@ -1,0 +1,8 @@
+The main code is ipython notebook file: final.ipynb
+
+Please place train.tsv and test.tsv in the same folder with *.ipynb
+
+The code run in the Kaggle Docker: https://hub.docker.com/r/kaggle/python/
+Libraries used are Pandas, NLTK, Scikit-learn etc. They are installed in the docker
+
+The ipython notebook can generate tags_*.tsv and stored in the same folder
