@@ -1,4 +1,4 @@
-The main code is ipython notebook file: final.ipynb
+The main code is ipython notebook file: xgboost-weight-cv.ipynb
 
 Please place train.tsv and test.tsv in the same folder with *.ipynb
 
